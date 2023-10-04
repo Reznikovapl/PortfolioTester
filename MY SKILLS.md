@@ -14,7 +14,7 @@
 
 -   Doswiadczenie w używaniu JIRA, Confluence, Jenkins,
 
-> TESTRAIL, TRELLO
+    TESTRAIL, TRELLO
 
 -   Software Development Life Cycle
 
@@ -43,6 +43,8 @@
 -   ShareX
 
 -   Slack
+
+  
 
 -   Język angielski
 
