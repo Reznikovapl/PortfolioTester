@@ -1,6 +1,6 @@
 Hello, I\'m Oksana Reznikova.
 
-I have a one successful career and am currently building another one
+I have one successful career and am currently building another one
 
 as a quality tester (manual).
 
@@ -117,6 +117,5 @@ Contact
 
 -   Oksanareznikovapl@gmail.com
 
--   +48608835231
 
 -   https://github.com/Reznikovapl/PortfolioTester
