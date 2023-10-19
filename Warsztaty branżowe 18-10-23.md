@@ -1,6 +1,9 @@
-##Podsumowanie z warsztatów 18-10-23 
-######Nazwa: Warsztaty branżowe
-######Prowadzący: Adam Gola
+Podsumowanie z warsztatów 18-10-23 
+
+Nazwa: Warsztaty branżowe
+
+Prowadzący: Adam Gola
+
 
 Najpierw dostaliśmy od prowadzącego zadanie na cały warsztaty. Główne pytanie: zespól QA zobowiązany dać swoje rekomendacje - czy aplikacja jest gotowa do wyjścia na środowisko produkcyjne.
 
